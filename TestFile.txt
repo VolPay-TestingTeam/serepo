@@ -1,3 +1,4 @@
 Test file for Selenium repo
 Gff
 Testing yet to be done.
+At some point you may want to stay up-to-date with a specific project. This is similar to following a person, except the focus is narrowed to only events on that project. You can choose to have notifications for this project sent via email or viewable on the web by configuring your settings. Typical notifications would be comments on a Pull Request or an issue, or just a comment anywhere within the repository.
